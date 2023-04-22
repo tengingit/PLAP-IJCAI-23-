@@ -1,4 +1,4 @@
-# PLAP-IJCAI-23-
+# PLAP-IJCAI-23
 An implement of PLAP method.
 
 Jupyter notebook is recommended for running this file in '.ipynb' format.
